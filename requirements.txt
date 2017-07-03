@@ -1,0 +1,6 @@
+MySQLdb»òMySQL-python + mysql-devel
+sqlparse
+argparse
+prettytable
+configparser
+python >= 2.7 or >= 3.4
